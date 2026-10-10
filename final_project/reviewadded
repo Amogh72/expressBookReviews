@@ -1,0 +1,2 @@
+$ curl -s -b cookies.txt -X PUT 'localhost:5000/customer/auth/review/1?review=A%20powerful%20story%20about%20tradition%20and%20change.'
+{"message":"The review for the book with ISBN 1 has been added/updated.","reviews":{"amogh":"A powerful story about tradition and change."}}

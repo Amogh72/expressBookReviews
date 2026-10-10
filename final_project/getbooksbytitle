@@ -1,0 +1,10 @@
+$ curl -s "localhost:5000/title/Things%20Fall%20Apart"
+{
+    "booksbytitle": [
+        {
+            "isbn": "1",
+            "author": "Chinua Achebe",
+            "reviews": {}
+        }
+    ]
+}
