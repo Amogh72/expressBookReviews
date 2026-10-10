@@ -1,0 +1,13 @@
+$ curl -s https://api.github.com/repos/Amogh72/expressBookReviews | grep -E "\"(full_name|fork|html_url)\""
+  "full_name": "Amogh72/expressBookReviews",
+    "html_url": "https://github.com/Amogh72",
+  "html_url": "https://github.com/Amogh72/expressBookReviews",
+  "fork": true,
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+      "html_url": "https://github.com/ibm-developer-skills-network",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews",
+    "fork": false,
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+      "html_url": "https://github.com/ibm-developer-skills-network",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews",
+    "fork": false,
